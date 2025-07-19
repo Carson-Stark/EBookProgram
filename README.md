@@ -18,6 +18,11 @@ A desktop application for managing the issuance of e-books to students, built in
 - Contextual Help menu – six guided help windows covering every major feature.
 - GUI with 6+ control types – entries with placeholder text, option menus, checkboxes, tool-tipped icon buttons, modals, and message boxes.
 
+### Project Timeline
+
+- **Date Started:** Janurary 2019
+- **Date Completed:** March 2019
+
 ## Demo Video
 
 https://github.com/user-attachments/assets/1d798a91-0e8c-43cf-b26d-e650be740b07
